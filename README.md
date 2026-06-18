@@ -18,10 +18,14 @@ The internship focuses on practical data analytics using Microsoft Excel, includ
 
 ### Week 1 – Data Cleaning & Preparation
 
-* Missing value handling
-* Data standardization
-* Duplicate checking
-* Dataset preparation
+* Identified and hanled missing value
+* Standardized date formats (YYYY-MM-DD)
+* Checked and verified duplicate records
+* Formatted numerical fields for consistency
+* Performed data validation and quality checks
+* Prepared dataset for analysis
+* Change log documentation
+
 
 ### Week 2 – Exploratory Data Analysis (EDA)
 
