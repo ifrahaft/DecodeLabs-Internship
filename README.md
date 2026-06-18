@@ -43,4 +43,4 @@ The internship focuses on practical data analytics using Microsoft Excel, includ
 ## Author
 
 Ifrah Aftab
-Business Analytics Student – FAST NUCES
+Business Analytics Student | FAST National University of Computer & Emerging Sciences (FAST-NUCES)
