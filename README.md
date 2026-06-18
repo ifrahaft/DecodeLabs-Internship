@@ -27,9 +27,10 @@ The internship focuses on practical data analytics using Microsoft Excel, includ
 
 * Descriptive Statistics
 * Correlation Analysis
-* Outlier Detection
-* Trend Analysis
-* Pivot Tables and Charts
+* Outlier Detection(IQR Method)
+* Revenue Trend Analysis
+* Pivot Tables and Charts(Data Visualization)
+* Business Insight Genration
 
 ### Week 3
 
